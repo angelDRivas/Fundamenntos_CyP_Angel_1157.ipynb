@@ -1,3 +1,5 @@
+#12 de octubre del 2021
+
 #declaracion de variable
 nombre="Angel"
 carrera="ingenieria en computacion"
