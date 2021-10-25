@@ -1,0 +1,7 @@
+ print( '''
+            A      N      N  GGGGGGG  EEEEEEE  L
+          A   A    N N    N  G        E        L
+         AAAAAAA   N   N  N  G   GGG  EEEEE    L
+         A     A   N     NN  G     G  E        L
+         A     A   N      N  GGGGGGG  EEEEEEE  LLLLLL
+                                                       ''')
