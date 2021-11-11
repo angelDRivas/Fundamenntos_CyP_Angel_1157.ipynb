@@ -7,9 +7,14 @@ pelicula= { "titulo":"Harry potter y la piedra filosofal",
                "Ron Weasley",
                "hermione granger"
               
-                                   },
-           "villano":"Voldemort"
+           },
+           "villano":"Voldemort",
+           
+           "genero":{"Drama","Fantasia"
           }
+          
+          
+}
 
 
 print(pelicula["titulo"])
