@@ -13,3 +13,22 @@ int main()
     printf("Fin del programa");
     return 0;
 }
+
+
+
+#include <stdio.h>
+
+int main()
+{
+    int valor = 0;
+    printf("con do while");
+    do{
+        printf("%i \n",valor);
+        printf("Dame un valor entero;");
+        scanf("%i",&valor);
+    
+    }while(valor !=0);
+    
+    printf("Fin del programa");
+    return 0;
+}
